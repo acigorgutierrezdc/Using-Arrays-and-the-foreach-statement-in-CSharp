@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "d:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "d:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\acigo\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\GitHub-Repository\\Using-Arrays-and-the-foreach-statement-in-CSharp\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
