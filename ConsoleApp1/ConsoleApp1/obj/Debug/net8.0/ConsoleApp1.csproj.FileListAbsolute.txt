@@ -1,0 +1,15 @@
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+d:\GitHub-Repository\Using-Arrays-and-the-foreach-statement-in-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
